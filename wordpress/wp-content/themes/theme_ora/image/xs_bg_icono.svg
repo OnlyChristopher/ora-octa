@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="282" viewBox="0 0 280 282">
+  <defs>
+    <clipPath id="clip-logo_ora2021">
+      <rect width="280" height="282"/>
+    </clipPath>
+  </defs>
+  <g id="logo_ora2021" clip-path="url(#clip-logo_ora2021)">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(-2772.14 -5031.016)" opacity="0.052">
+      <path id="Trazado_4643" data-name="Trazado 4643" d="M239.178,303.943c0,36.838,29.491,66.7,65.874,66.7s65.878-29.864,65.878-66.7v-66.7H305.052c-36.382,0-65.874,29.865-65.874,66.7" transform="translate(2680.872 4941.18)"/>
+      <path id="Trazado_4644" data-name="Trazado 4644" d="M239.047,198.114h0c0,73.861,59.36,133.741,132.584,133.741,0-73.865-59.36-133.741-132.584-133.741" transform="translate(2680.509 4832.901)"/>
+      <g id="Grupo_1123" data-name="Grupo 1123" transform="translate(2772.14 5031.035)">
+        <path id="Trazado_4645" data-name="Trazado 4645" d="M229.5,238.817a11.1,11.1,0,1,0,11.095-11.1,11.095,11.095,0,0,0-11.095,11.1" transform="translate(-118.046 -116.194)"/>
+        <path id="Trazado_4646" data-name="Trazado 4646" d="M333.564,210.322v-12.2A135.81,135.81,0,0,0,199.918,331.837h12.2A123.63,123.63,0,0,1,333.564,210.322" transform="translate(-199.918 -198.119)"/>
+        <path id="Trazado_4647" data-name="Trazado 4647" d="M308.179,219.492v-12.2a102.666,102.666,0,0,0-99.088,99.174h12.191a90.5,90.5,0,0,1,86.9-86.972" transform="translate(-174.532 -172.742)"/>
+        <path id="Trazado_4648" data-name="Trazado 4648" d="M283.064,228.839V216.376a70.3,70.3,0,0,0-64.9,64.936h12.459a57.165,57.165,0,0,1,52.439-52.473" transform="translate(-149.418 -147.594)"/>
+      </g>
+      <g id="Grupo_1124" data-name="Grupo 1124" transform="translate(2772.218 5178.621)">
+        <path id="Trazado_4649" data-name="Trazado 4649" d="M201.41,245.992a140.009,140.009,0,0,0,4.66,13.344h76.935V336.46a138.984,138.984,0,0,0,13.344,4.694V245.992Z" transform="translate(-195.868 -213.219)"/>
+        <path id="Trazado_4650" data-name="Trazado 4650" d="M205.289,254.8a140.077,140.077,0,0,0,9.238,13.344h24.6v24.662a141.115,141.115,0,0,0,13.344,9.279V254.8Z" transform="translate(-185.133 -188.84)"/>
+        <path id="Trazado_4651" data-name="Trazado 4651" d="M333.31,357.4V237.293H199.939c.219,4.51.667,8.955,1.3,13.344H319.966v118.9q5.838.853,11.83,1.209h1.515Z" transform="translate(-199.939 -237.293)"/>
+      </g>
+    </g>
+  </g>
+</svg>

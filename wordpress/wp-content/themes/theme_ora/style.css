@@ -1,0 +1,18 @@
+/*
+Theme Name: theme ora
+Theme URI: https://oraotca.org/
+Author: oraotca.org
+Author URI: https://oraotca.org/
+Description: Theme desarrollado para el Proyecto OTCA-ORA
+Version: 1.0
+License: GNU General Public License v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: theme_ora
+Tags: ORA, OTCA
+Este theme, como WordPress, está bajo la licencia GPL.
+*/
+
+@import url("css/normalize.css");
+/*@import url("css/bootstrap-grid.min.css");*/
+@import url("css/bootstrap.min.css");
+@import url("css/xs_css.css?xs=12345");
